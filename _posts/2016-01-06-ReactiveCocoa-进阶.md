@@ -8,9 +8,7 @@ header-img: img/blog/post-bg-elastic-box.jpg
 catalog: true
 tags:
     - Css
-    - 弹性和模型
-    - 函数式编程
-    - 开源框架
+    - 弹性盒模型
 ---
 ## 弹性盒模型布局入门
 
