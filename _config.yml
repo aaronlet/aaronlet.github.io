@@ -2,7 +2,7 @@
 title: BY Blog
 SEOTitle: Aaron | Aaron Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
+email: wo_99936@qq.com
 description: "Every failure is leading towards success."
 keyword: "Aaron, Aaron Blog, Aaron的博客, qiubaiying, web, 前端, Node, node.js"
 url: "https://aaronlet.github.io"          # your host, for absolute URL
@@ -19,10 +19,7 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
+segmentfault_username:     aaron_blog
 #twitter_username:   qiubaiying
 
 
