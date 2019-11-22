@@ -13,7 +13,7 @@
   }],
   "background_color": "#fff",
   "theme_color": "#000",
-  "start_url": "/aaronlet.github.io",
+  "start_url": "aaronlet/aaronlet.github.io",
   "display": "standalone",
   "orientation": "portrait"
 }
