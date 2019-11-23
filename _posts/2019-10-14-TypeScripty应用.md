@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      弹性盒模型布局入门
-subtitle:   Introduction to elastic box model layout
-date:       2019-02-26
+title:      TypeScripty应用
+subtitle:   TypeScripty application
+date:       2019-10-14
 author:     Aaron
 header-img: img/blog/post-bg-typescript.jpg
 catalog: true
