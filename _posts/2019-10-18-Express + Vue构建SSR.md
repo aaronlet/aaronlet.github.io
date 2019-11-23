@@ -7,7 +7,7 @@ author:     Aaron
 header-img: img/blog/post-bg-ssrAndVue.jpg
 catalog: true
 tags:
-    - TypeScript
+    - Node
     - Vue
 ---
 
