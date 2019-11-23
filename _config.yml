@@ -1,10 +1,10 @@
 # Site settings
-title: Aaron Blog
-SEOTitle: Aaron | Aaron Blog
+title: Aaron's Blog
+SEOTitle: Aaron | Aaron's Blog
 header-img: img/post-bg-desk.jpg
 email: wo_99936@qq.com
 description: "Every failure is leading towards success."
-keyword: "Aaron, Aaron Blog, Aaron的博客, qiubaiying, web, 前端, Node, node.js"
+keyword: "Aaron, Aaron's Blog, Aaron的博客, web, 前端, Node, node.js"
 url: "https://aaronlet.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/aaronlet/aaronlet.github.io.git" # you code repository
